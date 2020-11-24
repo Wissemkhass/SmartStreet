@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/MyImage"/>
+    <qresource prefix="/">
+        <file>image/Admin.png</file>
+        <file>image/Employer.png</file>
+        <file>image/wiss.jpg</file>
+        <file>image/traffic_light1600.png</file>
+        <file>image/Defcon24.png</file>
+    </qresource>
+</RCC>
